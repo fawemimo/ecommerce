@@ -1,0 +1,65 @@
+.pytest_cache
+__pycache__
+.venv
+chromedriver
+db.sqlite
+# Environments #
+################
+.venv/
+.vscode
+._.DS_Store
+.DS_Store
+.pytest_cache
+.env
+# Django #
+##########
+*.log
+*.pot
+*.pyc
+__pycache__/
+*.py[cod]
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Compiled source #
+###################
+*.exe
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unit test / coverage reports #
+################################
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+__pycache__
+.pytest_cache
+.vscode
+.venv
+mydata.json
+new.json
+settings.md 
+commands.md
+chromedriver.exe
+/txt
+txt
